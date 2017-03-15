@@ -3,9 +3,9 @@ RobotC project for a ball balancing robot
 
 you need:
 - robotC ... you can download a trial version under 'http://www.robotc.net/' ... make sure to activate the 'natural language' option
-- a '4-wheel balancer robot' including 
- 		- two gyro sensors (one for the forward-backward axis the other one for the left-right axis)
-  	-	4 motors driving four 58mm omni-wheels ( http://www.robotshop.com/en/58mm-plastic-omni-wheel-lego-nxt-servo.html )
+- a '4-wheel balancer robot'
+- two gyro sensors (one for the forward-backward axis the other one for the left-right axis)
+- 4 motors driving four 58mm omni-wheels ( http://www.robotshop.com/en/58mm-plastic-omni-wheel-lego-nxt-servo.html )
 - a basketball (size 5)
 
 I have not found any construction plans for a ball-balancing robot. I have choosen a very simple mechanical approach.
